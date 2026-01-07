@@ -12,7 +12,7 @@ These datasets were generated using a deterministic, event-driven cognitive simu
 
 ## Repository Structure
 
-
+```text
 maneuron/
 ├── src/                      # Rust Source Code (v1.0 Hardened)
 │   ├── main.rs               # Simulation Entry Point & Experiment Runner
