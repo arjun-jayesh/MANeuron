@@ -76,7 +76,6 @@ project-ma/
 │ ├── scheduler/ # Event queue & execution
 │ └── metrics/ # Entropy, energy, confidence
 │
-├── experiments/ # Experiment configurations
 ├── scripts/ # Utility and plotting helpers
 ├── data/ # (Optional) Local experiment outputs
 ├── Cargo.toml # Rust project configuration
