@@ -89,6 +89,7 @@ Python script used to generate all figures reported in the paper directly from t
 **Usage:**
 ```bash
 python generate_plots.py
+```
 
 This will generate:
 
