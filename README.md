@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1129907660.svg)](https://doi.org/10.5281/zenodo.18181278)
+
 # Project MA
 
 **Project MA: A Deterministic, Energy-Constrained Framework for Probabilistic Cognitive Modeling**
