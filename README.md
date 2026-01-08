@@ -135,7 +135,7 @@ If you use this code, model, or associated datasets in academic work, please cit
 
 > Jayesh, A. *Project MA: A Deterministic, Energy-Constrained Framework for Probabilistic Cognitive Modeling*. Preprint.
 
-(Use the Zenodo or arXiv DOI once available.)
+[zenodo](https://doi.org/10.5281/zenodo.18181494)
 
 ---
 
