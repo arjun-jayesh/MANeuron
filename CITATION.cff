@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Project MA: A Deterministic, Energy-Constrained Framework for Probabilistic Cognitive Modeling"
+authors:
+  - family-names: Jayesh
+    given-names: Arjun
+    orcid: https://orcid.org/0009-0001-8057-3225
+version: 1.0.0
+doi: 10.5281/zenodo.18181279
+repository-code: https://github.com/arjun-jayesh/MANeuron
+license: GPL-3.0
