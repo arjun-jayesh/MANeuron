@@ -1,5 +1,8 @@
 [![DOI](https://zenodo.org/badge/1129907660.svg)](https://doi.org/10.5281/zenodo.18181278)
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Rust](https://img.shields.io/badge/Rust-1.70%2B-orange?logo=rust)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![Reproducible](https://img.shields.io/badge/Reproducible-Deterministic-success)](#reproducibility)
 # Project MA
 
 **Project MA: A Deterministic, Energy-Constrained Framework for Probabilistic Cognitive Modeling**
